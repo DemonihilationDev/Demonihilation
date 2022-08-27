@@ -1,5 +1,5 @@
 # Demonihilation Admin
-By @Demonihilation_Dev on Roblox.
+This script was programmed by @Demonihilation_Dev on Roblox.
 
 Thank you for choosing Demonihilation Admin. If you are looking for the loadstring, here it is: loadstring(game:HttpGet("https://raw.githubusercontent.com/DemonihilationDev/Demonihilation/main/demonihilation"))()
 
