@@ -1,7 +1,10 @@
 # Demonihilation Admin
 This script was created by @Demonihilation_Dev on Roblox.
 
-Thank you for choosing Demonihilation Admin. If you are looking for the loadstring, here it is: ```lua loadstring(game:HttpGet("https://raw.githubusercontent.com/DemonihilationDev/Demonihilation/main/demonihilation"))() ```
+Thank you for choosing Demonihilation Admin. If you are looking for the loadstring, here it is: 
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DemonihilationDev/Demonihilation/main/demonihilation"))()
+```
 
 If you aren't whitelisted, follow the instructions below: 
 
